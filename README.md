@@ -26,13 +26,13 @@
 
 ## 🤝 Socials  
 <p align="center">
-<a href="https://discord.com/invite/wXPEmYjn"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-<a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ayushjha.exe/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://in.linkedin.com/in/ayush-jha-1711b537a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
-<a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-<a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
+<!-- <a href="https://discord.com/invite/wXPEmYjn"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>  -->
+<!-- <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>  -->
+<!-- <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>  -->
+<!-- <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>  -->
+<!-- <a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a> -->
 </p>
 
 ---

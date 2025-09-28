@@ -39,20 +39,30 @@
 
 ## 🚀 Skills  
 <p align="center">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20Source-000000?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNOME-357D00?style=flat&logo=gnome&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJS-%23000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-%23404d59?style=flat&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%2300f?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
+
+
 
 ---
 

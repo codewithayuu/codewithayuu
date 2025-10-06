@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=CS+Student;Open+Source+Enthusiast;Builder+%26+Developer;Always+Learning" alt="Headline" />
 </div>  
 
-<p align="center"><a href="https://github.com/codewithayuu">Linkedin ↗️</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/ayush-jha-1711b537a/">Linkedin ↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/codewithayuu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/codewithayuu?style=social) <img src="https://komarev.com/ghpvc/?username=codewithayuu" alt="" />

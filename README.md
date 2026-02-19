@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%9A%80+Building+things+that+shouldn%E2%80%99t+exist+yet;%F0%9F%A7%A0+Code+%E2%80%A2+Systems+%E2%80%A2+AI+%E2%80%A2+Curiosity;%E2%9A%A1+Turning+late-night+ideas+into+real+products;%F0%9F%8C%8D+Shipping+%3E+Talking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+what+I+wish+existed;%E2%9A%A1+From+late-night+ideas+to+shipped+tools" alt="Typing SVG" />
+
 
 </div>
 

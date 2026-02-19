@@ -33,21 +33,14 @@
 
 ---
 
-### 🖥️ `> whoami`
+### 🖥️ About Me
 
-```js
-const ayush = {
-    pronouns: "he" | "him",
-    location: "India 🇮🇳",
-    role: "CS Student & Full-Stack Developer",
-    currentlyWorkingOn: "Cool projects & open-source contributions",
-    learning: ["React.js", "Next.js", "Rust", "Kotlin"],
-    askMeAbout: ["Node.js", "MongoDB", "MySQL", "Linux", "Open Source"],
-    email: "codewithayuu@gmail.com",
-    funFact: "My first line of code was NOT 'Hello World!' 😄",
-    availableForHire: true,
-};
-```
+- 🔭 Currently working on **building cool projects & contributing to open-source**
+- 🌱 Currently learning **React.js, Next.js, Rust, Kotlin**
+- 💬 Ask me about **Node.js, MongoDB, MySQL, Linux, Open Source**
+- 📫 Reach me at **codewithayuu@gmail.com**
+- 🇮🇳 Based in **India**
+- ⚡ Fun fact: **My first line of code was NOT "Hello World!" 😄**
 
 <br clear="both">
 
@@ -56,9 +49,9 @@ const ayush = {
 ## 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,kotlin,rust,html,css,react,nextjs&perline=11" alt="Languages & Frontend"/><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,docker,linux,git,github,vscode&perline=11" alt="Backend & Tools"/><br>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,figma,postman,bash,vim&perline=11" alt="Platforms & Extras"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,kotlin,rust,html,css,react,nextjs&perline=11" alt="Languages and Frontend"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,docker,linux,git,github,vscode&perline=11" alt="Backend and Tools"/><br>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,figma,postman,bash,vim&perline=6" alt="Platforms and Extras"/>
 </div>
 
 <details>
@@ -71,15 +64,15 @@ const ayush = {
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 </details>
 
 ---
 
-## 🎮 Play Tic-Tac-Toe
+## 🎮 Play Tic-Tac-Toe Against Me
 
-> **Click any ⬜ square to make your move!** You play as ❌, I play as ⭕  
+> **Click any ⬜ square to make your move!** You play as ❌, the bot plays as ⭕  
 > _Each click opens a GitHub Issue — just hit "Submit" and the board updates automatically!_
 
 <!-- TICTACTOE_STATE:_________ -->
@@ -99,8 +92,6 @@ const ayush = {
 <summary>🕹️ <b>More games to play</b></summary>
 <br>
 
-<p align="center">
-
 | Game | Play Now |
 |:----:|:--------:|
 | 🐍 Snake | [Play Google Snake](https://www.google.com/fbx?fbx=snake_arcade) |
@@ -111,38 +102,43 @@ const ayush = {
 | ⌨️ Typing Speed | [Test Typing Speed](https://monkeytype.com/) |
 | 🧩 Sudoku | [Play Sudoku](https://sudoku.com/) |
 
-</p>
 </details>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats Dashboard
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=codewithayuu&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <a href="https://github.com/codewithayuu">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/codewithayuu">
+    <img width="49%" src="https://streak-stats.demolab.com?user=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&theme=midnight-purple&hide_border=true&border_radius=10&layout=compact&langs_count=12" alt="Top Languages"/>
+  <a href="https://github.com/codewithayuu">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages"/>
+  </a>
 </p>
 
 <details>
-<summary>📊 <b>Expand for more detailed stats</b></summary>
+<summary>📊 <b>More detailed stats</b></summary>
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithayuu&theme=midnight_purple" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithayuu&theme=midnight_purple" alt="Most Commit Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithayuu&theme=radical" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithayuu&theme=radical" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithayuu&theme=midnight_purple" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithayuu&theme=midnight_purple&utcOffset=5.5" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithayuu&theme=radical" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithayuu&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithayuu&theme=midnight_purple" alt="Profile Details"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithayuu&theme=radical" alt="Profile Details"/>
 </p>
 
 </details>
@@ -162,23 +158,30 @@ const ayush = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayuu&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayuu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
 
-## 🧊 3D Contribution Calendar
+## 📅 Contribution Calendar
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-    <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-  </picture>
+  <img src="https://ghchart.rshah.org/7B2FBE/codewithayuu" alt="Contribution Calendar" width="100%"/>
 </p>
 
 ---
 
+<!-- ==========================================================================
+     🐍 SNAKE ANIMATION — REQUIRES ONE-TIME WORKFLOW SETUP
+     ==========================================================================
+     To enable this section:
+     1. Create file: .github/workflows/snake.yml (see instructions below README)
+     2. Go to repo → Settings → Actions → General → set "Read and write permissions"
+     3. Go to repo → Actions tab → run "Generate Snake" workflow manually
+     4. Once the workflow succeeds, UNCOMMENT the section below
+     ========================================================================== -->
+
+<!--
 ## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
@@ -190,43 +193,35 @@ const ayush = {
 </p>
 
 ---
-
-<!--
-## 🎵 Spotify — Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color=6fda44" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
-> 📝 To activate: Go to https://spotify-github-profile.kittinanx.com → Login with Spotify → Replace YOUR_SPOTIFY_USER_ID above
 -->
 
+<!-- ==========================================================================
+     🧊 3D CONTRIBUTION CALENDAR — REQUIRES ONE-TIME WORKFLOW SETUP
+     ==========================================================================
+     To enable this section:
+     1. Create file: .github/workflows/3d-contrib.yml (see instructions below README)
+     2. Go to repo → Settings → Actions → General → set "Read and write permissions"
+     3. Go to repo → Actions tab → run "Generate 3D Contribution Graph" workflow manually
+     4. Once the workflow succeeds, UNCOMMENT the section below
+     ========================================================================== -->
+
 <!--
-## ⌨️ Weekly Coding Stats (WakaTime)
+## 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=midnight-purple&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
 </p>
-
-> 📝 To activate: Sign up at https://wakatime.com → Install VS Code extension → Replace YOUR_WAKATIME_USERNAME above
--->
 
 ---
+-->
 
 ## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/codewithayuu/codewithayuu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=codewithayuu&theme=midnight-purple&hide_border=true&border_radius=10" alt="Profile Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="Profile Repo"/>
   </a>
-  <!-- Add more pinned repos below 👇 -->
-  <!--
-  <a href="https://github.com/codewithayuu/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=YOUR-REPO-NAME&theme=midnight-purple&hide_border=true&border_radius=10" alt="Repo"/>
-  </a>
-  -->
+  <!-- ADD MORE REPOS: duplicate the <a> block above and change repo=YOUR-REPO-NAME -->
 </p>
 
 ---
@@ -234,13 +229,13 @@ const ayush = {
 ## 💡 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=midnight-purple&hideBorder&qColor=%23ffffff&aColor=%236FDA44" alt="Jokes Card"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card"/>
 </p>
 
 ---
@@ -277,17 +272,12 @@ const ayush = {
 
 <div align="center">
 
-### 🌟 If you like my work, consider giving a ⭐!
-
-<a href="https://skyline.github.com/codewithayuu">
-  <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20My%203D%20Skyline-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
+### ⭐ If you like my work, consider starring my repos!
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
 
 <p align="center">
-  Credit: <a href="https://github.com/codewithayuu">codewithayuu</a> | Last Edited: 28/09/2025
+  Credit: <a href="https://github.com/codewithayuu">codewithayuu</a> · Last Edited: 28/09/2025
 </p>
-```

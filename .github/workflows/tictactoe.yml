@@ -1,0 +1,39 @@
+name: Tic-Tac-Toe Move
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  tictactoe:
+    if: startsWith(github.event.issue.title, 'tictactoe|')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Process the move
+        run: python scripts/tictactoe.py "${{ github.event.issue.title }}"
+
+      - name: Commit updated board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🎮 Tic-Tac-Toe: move processed"
+          git push
+
+      - name: Close the issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: |
+            ✅ **Move processed!**
+            Check the [game board](https://github.com/codewithayuu/codewithayuu#-play-tic-tac-toe) to see the result! 🎮

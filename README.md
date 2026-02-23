@@ -1,17 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source%20Advocate&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+what+I+wish+existed;From+late-night+ideas+to+shipped+tools" alt="Typing SVG" />
-
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Building+what+I+wish+existed;From+late-night+ideas+to+shipped+products" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-jha-1711b537a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:codewithayuu@gmail.com">
+  <a href="mailto:ayu.vault@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/ayushjha.exe/">
@@ -22,11 +19,7 @@
   </a>
 </p>
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/github/followers/codewithayuu?label=Followers&style=social" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/github/stars/codewithayuu?label=Stars&style=social" alt="stars"/>
@@ -34,15 +27,24 @@
   <img src="https://komarev.com/ghpvc/?username=codewithayuu&label=Profile+Views&color=blueviolet&style=flat" alt="views"/>
 </p>
 
----
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ### 🖥️ About Me
 
-- 🔭 Currently working on **building cool projects & contributing to open-source**
-- 🌱 Currently learning **React.js, Next.js, Rust, Kotlin**
-- 💬 Ask me about **Node.js, MongoDB, MySQL, Linux, Open Source**
-- 📫 Reach me at **codewithayuu@gmail.com**
-- 🇮🇳 Based in **India**
+- 🔭 Currently working on **full-stack web apps & exploring ML projects**
+
+- 🌱 Learning **Machine Learning, Next.js advanced patterns, Rust**
+- 🔗 Built a few **blockchain dApps on Algorand** for hackathons
+
+- 💻 Shipped **AlgoAtlas** — a DSA platform used by 1,000+ people
+- 🎯 **Codeforces Specialist** — competitive programming on the side
+
+- 🎓 B.Tech IT @ MAIT, Delhi — **9.6 CGPA** (Sem 1)
+- 📫 Reach me at **ayu.vault@gmail.com**
+
+- 🇮🇳 Based in **Delhi, India**
 - ⚡ Fun fact: **My first line of code was NOT "Hello World!" 😄**
 
 <br clear="both">
@@ -52,9 +54,9 @@
 ## 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,kotlin,rust,html,css,react,nextjs&perline=11" alt="Languages and Frontend"/><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase,docker,linux,git,github,vscode&perline=11" alt="Backend and Tools"/><br>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,figma,postman,bash,vim&perline=6" alt="Platforms and Extras"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,kotlin,react,nextjs,tailwind,html,css&perline=11" alt="Languages and Frontend"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma,supabase,docker,linux,git&perline=11" alt="Backend and Tools"/><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vercel,github,vscode,figma,postman,bash,vim&perline=9" alt="ML, Platforms and Extras"/>
 </div>
 
 <details>
@@ -63,26 +65,53 @@
 
 | Category | Technologies |
 |:--------:|:------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **ML / AI** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Blockchain** | ![Algorand](https://img.shields.io/badge/Algorand-%23000000.svg?style=flat-square&logo=algorand&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=flat-square&logo=ipfs&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 </details>
 
 ---
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/codewithayuu/algoatlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=algoatlas&theme=radical&hide_border=true&border_radius=10" alt="AlgoAtlas"/>
+  </a>
+  <a href="https://github.com/codewithayuu/algocredchain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=algocredchain&theme=radical&hide_border=true&border_radius=10" alt="AlgoCredChain"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/codewithayuu/chainfund">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=chainfund&theme=radical&hide_border=true&border_radius=10" alt="ChainFund"/>
+  </a>
+  <!-- Add more repos as you build ML and web projects -->
+</p>
+
+| Project | What it is | Core Stack |
+|:--------|:-----------|:-----------|
+| **[AlgoAtlas](https://algoatlas.vercel.app)** | Pattern-based DSA platform — 350+ problems, built-in compiler, contest creator, dynamic roadmaps | Next.js 14, TypeScript, Prisma, PostgreSQL, Redis |
+| **[AlgoCredChain](https://github.com/codewithayuu/algocredchain)** | Academic credentials as Algorand NFTs with public verification (hackathon) | Algorand SDK, Pera Wallet, IPFS, Next.js 14 |
+| **[ChainFund](https://github.com/codewithayuu/chainfund)** | Decentralised campus crowdfunding with smart contracts (hackathon) | PyTEAL, Algorand SDK, Next.js 14, PostgreSQL |
+
+---
+
 ## 🎮 Play Tic-Tac-Toe Against Me
 
-> **Click any ⬜ square to make your move!** You play as ❌, the bot plays as ⭕  
-> _Each click opens a GitHub Issue — just hit "Submit" and the board updates automatically!_
+> **Click any ⬜ square to make your move!** You play as ❌, the bot plays as ⭕
+> *Each click opens a GitHub Issue — just hit "Submit" and the board updates automatically!*
 
 <!-- TICTACTOE_STATE:_________ -->
 <!-- TICTACTOE_BOARD_START -->
 
 |   | **1** | **2** | **3** |
-|:---:|:---:|:---:|:---:|
+|:-:|:-----:|:-----:|:-----:|
 | **A** | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CA1&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CA2&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CA3&body=Just+click+submit!) |
 | **B** | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CB1&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CB2&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CB3&body=Just+click+submit!) |
 | **C** | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CC1&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CC2&body=Just+click+submit!) | [⬜](https://github.com/codewithayuu/codewithayuu/issues/new?title=tictactoe%7CC3&body=Just+click+submit!) |
@@ -96,12 +125,9 @@
 <br>
 
 | Game | Play Now |
-|:----:|:--------:|
+|:-----|:---------|
 | 🐍 Snake | [Play Google Snake](https://www.google.com/fbx?fbx=snake_arcade) |
 | 🧱 2048 | [Play 2048](https://play2048.co/) |
-| 💣 Minesweeper | [Play Minesweeper](https://minesweeper.online/) |
-| 🟦 Tetris | [Play Tetris](https://tetris.com/play-tetris) |
-| 🎯 Aim Trainer | [Play Aim Trainer](https://humanbenchmark.com/tests/aim) |
 | ⌨️ Typing Speed | [Test Typing Speed](https://monkeytype.com/) |
 | 🧩 Sudoku | [Play Sudoku](https://sudoku.com/) |
 
@@ -126,36 +152,6 @@
   </a>
 </p>
 
-<details>
-<summary>📊 <b>More detailed stats</b></summary>
-<br>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithayuu&theme=radical" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithayuu&theme=radical" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithayuu&theme=radical" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithayuu&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithayuu&theme=radical" alt="Profile Details"/>
-</p>
-
-</details>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithayuu&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-  </a>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
@@ -166,65 +162,12 @@
 
 ---
 
-## 📅 Contribution Calendar
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7B2FBE/codewithayuu" alt="Contribution Calendar" width="100%"/>
-</p>
-
----
-
-<!-- ==========================================================================
-     🐍 SNAKE ANIMATION — REQUIRES ONE-TIME WORKFLOW SETUP
-     ==========================================================================
-     To enable this section:
-     1. Create file: .github/workflows/snake.yml (see instructions below README)
-     2. Go to repo → Settings → Actions → General → set "Read and write permissions"
-     3. Go to repo → Actions tab → run "Generate Snake" workflow manually
-     4. Once the workflow succeeds, UNCOMMENT the section below
-     ========================================================================== -->
-
-<!--
-## 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithayuu/codewithayuu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithayuu/codewithayuu/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/codewithayuu/codewithayuu/output/github-snake.svg" width="100%"/>
-  </picture>
-</p>
-
----
--->
-
-<!-- ==========================================================================
-     🧊 3D CONTRIBUTION CALENDAR — REQUIRES ONE-TIME WORKFLOW SETUP
-     ==========================================================================
-     To enable this section:
-     1. Create file: .github/workflows/3d-contrib.yml (see instructions below README)
-     2. Go to repo → Settings → Actions → General → set "Read and write permissions"
-     3. Go to repo → Actions tab → run "Generate 3D Contribution Graph" workflow manually
-     4. Once the workflow succeeds, UNCOMMENT the section below
-     ========================================================================== -->
-
-<!--
-## 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
-</p>
-
----
--->
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/codewithayuu/codewithayuu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="Profile Repo"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithayuu&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
   </a>
-  <!-- ADD MORE REPOS: duplicate the <a> block above and change repo=YOUR-REPO-NAME -->
 </p>
 
 ---
@@ -240,36 +183,6 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card"/>
 </p>
-
----
-
-## <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="25" height="25"/> Party Parrots!
-
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="27" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="27" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="22" height="22"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="22" height="22"/>
-</div>
 
 ---
 

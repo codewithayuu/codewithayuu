@@ -41,7 +41,7 @@
 - 💻 Shipped **AlgoAtlas** — a DSA Sheet based on Patterns.
 - 🎯 **Codeforces Specialist** — competitive programming on the side
 
-- 📫 Reach me at **ayu.vault@gmail.com**
+- 📫 Reach me at **codewithayuu@gmail.con**
 
 - 🇮🇳 Based in **Delhi, India**
 - ⚡ Fun fact: **My first line of code was NOT "Hello World!" 😄**

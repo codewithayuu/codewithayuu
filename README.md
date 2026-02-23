@@ -76,22 +76,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/codewithayuu/algoatlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=algoatlas&theme=radical&hide_border=true&border_radius=10" alt="AlgoAtlas"/>
-  </a>
-  <a href="https://github.com/codewithayuu/algocredchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=algocredchain&theme=radical&hide_border=true&border_radius=10" alt="AlgoCredChain"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/codewithayuu/chainfund">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithayuu&repo=chainfund&theme=radical&hide_border=true&border_radius=10" alt="ChainFund"/>
-  </a>
-  <!-- Add more repos as you build ML and web projects -->
-</p>
 
 | Project | What it is | Core Stack |
 |:--------|:-----------|:-----------|

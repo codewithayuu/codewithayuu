@@ -35,13 +35,12 @@
 
 - 🔭 Currently working on **full-stack web apps & exploring ML projects**
 
-- 🌱 Learning **Machine Learning, Next.js advanced patterns, Rust**
+- 🌱 Learning **Machine Learning, TypeScript & Next.js , Rust**
 - 🔗 Built a few **blockchain dApps on Algorand** for hackathons
 
-- 💻 Shipped **AlgoAtlas** — a DSA platform used by 1,000+ people
+- 💻 Shipped **AlgoAtlas** — a DSA Sheet based on Patterns.
 - 🎯 **Codeforces Specialist** — competitive programming on the side
 
-- 🎓 B.Tech IT @ MAIT, Delhi — **9.6 CGPA** (Sem 1)
 - 📫 Reach me at **ayu.vault@gmail.com**
 
 - 🇮🇳 Based in **Delhi, India**

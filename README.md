@@ -78,8 +78,6 @@
 | Project | What it is | Core Stack |
 |:--------|:-----------|:-----------|
 | **[AlgoAtlas](https://algoatlas.vercel.app)** | Pattern-based DSA platform — 350+ problems, built-in compiler, contest creator, dynamic roadmaps | Next.js 14, TypeScript, Prisma, PostgreSQL, Redis |
-| **[AlgoCredChain](https://github.com/codewithayuu/algocredchain)** | Academic credentials as Algorand NFTs with public verification (hackathon) | Algorand SDK, Pera Wallet, IPFS, Next.js 14 |
-| **[ChainFund](https://github.com/codewithayuu/chainfund)** | Decentralised campus crowdfunding with smart contracts (hackathon) | PyTEAL, Algorand SDK, Next.js 14, PostgreSQL |
 
 ---
 

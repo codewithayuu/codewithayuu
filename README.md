@@ -36,8 +36,6 @@
 - 🔭 Currently working on **full-stack web apps & exploring ML projects**
 
 - 🌱 Learning **Machine Learning, TypeScript & Next.js , Rust**
-- 🔗 Built a few **blockchain dApps on Algorand** for hackathons
-
 - 💻 Shipped **AlgoAtlas** — a DSA Sheet based on Patterns.
 - 🎯 **Codeforces Specialist** — competitive programming on the side
 

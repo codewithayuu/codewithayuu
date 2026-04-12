@@ -117,16 +117,16 @@
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/codewithayuu">
-    <img width="49%" src="https://streak-stats.demolab.com?user=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </p>
 
@@ -144,7 +144,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithayuu&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithayuu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=-C,-B,-?" alt="Trophies"/>
   </a>
 </p>
 

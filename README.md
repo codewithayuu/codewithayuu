@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/codewithayuu">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
@@ -126,7 +126,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </p>
 

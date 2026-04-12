@@ -117,8 +117,11 @@
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="49%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+    <img width="100%" src="stats/github-stats.svg" alt="GitHub Stats"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/codewithayuu">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayuu&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
   </a>
@@ -126,7 +129,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithayuu">
-    <img width="40%" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=codewithayuu&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+    <img width="60%" src="stats/top-langs.svg" alt="Top Languages"/>
   </a>
 </p>
 
@@ -143,8 +146,8 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithayuu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=-C,-B,-?" alt="Trophies"/>
+  <a href="https://github.com/codewithayuu">
+    <img width="100%" src="stats/trophies.svg" alt="Trophies"/>
   </a>
 </p>
 

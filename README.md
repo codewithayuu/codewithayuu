@@ -59,7 +59,7 @@ First-year B.Tech (IT) student at MAIT Delhi building at the boundary of systems
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayuu&theme=radical&hide_border=true&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithayuu&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayuu&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
 </p>
 

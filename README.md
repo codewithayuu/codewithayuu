@@ -24,13 +24,13 @@ First-year B.Tech (IT) student at MAIT Delhi building at the boundary of systems
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **[DID Vault](https://github.com/codewithayuu)** | Self-sovereign identity portal — DID creation, W3C VC issuance, DIDComm v2 messaging | TypeScript · Next.js · Hyperledger Identus |
-| **[Solang Lens](https://github.com/codewithayuu)** | Comparative semantic analyser between Hyperledger Solang and Soroban Rust SDK | Rust · Compiler IR · WASM · ABI |
-| **[RVForge](https://github.com/codewithayuu)** | RISC-V cross-compilation harness for high-precision numerical libraries | Rust · C++ · RISC-V · QEMU · CMake |
-| **[Skynet](https://github.com/codewithayuu)** | Zero-setup E2E encrypted P2P file transfer via QUIC — no cloud, no accounts | Rust · QUIC · P2P · TUI |
-| **[Lumina](https://github.com/codewithayuu)** | Transforms Git repos into interactive blogs with offline WASM code execution | Rust · WASM · TypeScript |
-| **[Conquerors](https://github.com/codewithayuu)** | Rust command centre for AI agents — context compression, MCP server, TUI | Rust · CLI · MCP · AI Agents |
-| **[Project Chronos](https://github.com/codewithayuu)** | Entropy-aware ICU early-warning system via neural signal processing | Python · ML · Healthcare AI |
+| **[DID Vault](https://github.com/codewithayuu/did-vault)** | Self-sovereign identity portal — DID creation, W3C VC issuance, DIDComm v2 messaging | TypeScript · Next.js · Hyperledger Identus |
+| **[Solang Lens](https://github.com/codewithayuu/solang-lens)** | Comparative semantic analyser between Hyperledger Solang and Soroban Rust SDK | Rust · Compiler IR · WASM · ABI |
+| **[RVForge](https://github.com/codewithayuu/rvforge)** | RISC-V cross-compilation harness for high-precision numerical libraries | Rust · C++ · RISC-V · QEMU · CMake |
+| **[Skynet](https://github.com/codewithayuu/skynet)** | Zero-setup E2E encrypted P2P file transfer via QUIC — no cloud, no accounts | Rust · QUIC · P2P · TUI |
+| **[Lumina](https://github.com/codewithayuu/lumina)** | Transforms Git repos into interactive blogs with offline WASM code execution | Rust · WASM · TypeScript |
+| **[Conquerors](https://github.com/codewithayuu/Conquerors)** | Rust command centre for AI agents — context compression, MCP server, TUI | Rust · CLI · MCP · AI Agents |
+| **[Project Chronos](https://github.com/codewithayuu/project-chronos)** | Entropy-aware ICU early-warning system via neural signal processing | Python · ML · Healthcare AI |
 
 ---
 
